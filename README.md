@@ -87,11 +87,10 @@ A production-ready AI-powered e-commerce platform built using the MERN Stack. Th
 https://github.com/rahulchandasil/NexaCart
 
 🎨 Frontend Repository
-https://github.com/rahulchandasil/ecommerce-frontend
+https://github.com/rahulchandasil/NextCart-frontend
 
 ⚙️ Backend Repository
-https://github.com/rahulchandasil/ecommerce-backend
-
+https://github.com/rahulchandasil/NextCart-backend
 📖 **Project README**  
 Available in the Complete Project Repository.
 ---
