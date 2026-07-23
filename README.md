@@ -83,20 +83,14 @@ A production-ready AI-powered e-commerce platform built using the MERN Stack. Th
 
 ### 🔗 Project Links
 
-📂 **Complete Project Repository (Documentation + Project Overview)**  
-https://github.com/rahul123-bot/NexaCart
+📂 Complete Project Repository
+https://github.com/rahulchandasil/NexaCart
 
-🎨 **Frontend Repository**  
-https://github.com/rahul123-bot/ecommerce-frontend
+🎨 Frontend Repository
+https://github.com/rahulchandasil/ecommerce-frontend
 
-⚙️ **Backend Repository**  
-https://github.com/rahul123-bot/ecommerce-backend
-
-🌐 **Live Application**  
-https://ecommerce-frontend-eta-jet.vercel.app/
-
-🚀 **Backend API**  
-https://ecommerce-backend-2-dw69.onrender.com
+⚙️ Backend Repository
+https://github.com/rahulchandasil/ecommerce-backend
 
 📖 **Project README**  
 Available in the Complete Project Repository.
@@ -106,7 +100,7 @@ Available in the Complete Project Repository.
 
 Project management application with drag-and-drop functionality and authentication.
 
-🔗 **GitHub:** https://github.com/rahul123-bot/kanban-board
+🔗 **GitHub:** https://github.com/rahulchandasil/kanban-board
 
 🌐 **Live Demo:** https://kanban-board-ochre-iota.vercel.app
 
@@ -116,20 +110,19 @@ Project management application with drag-and-drop functionality and authenticati
 
 Full-stack food ordering platform inspired by Zomato.
 
-🔗 **GitHub:** https://github.com/rahul123-bot/food_reel_app
+🔗 **GitHub:** https://github.com/rahulchandasil/food_reel_app
 
 
 
----
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahul123-bot&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulchandasil&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul123-bot&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchandasil&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -139,7 +132,7 @@ Full-stack food ordering platform inspired by Zomato.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=rahul123-bot&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=rahulchandasil&theme=tokyonight"/>
 
 </p>
 
@@ -148,7 +141,7 @@ Full-stack food ordering platform inspired by Zomato.
 # 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/rahul-sil-891070170
-- 💻 GitHub: https://github.com/rahul123-bot
+- 💻 GitHub: https://github.com/rahulchandasil
 - 📧 Email: rahulsil930@gmail.com
 
 ---
