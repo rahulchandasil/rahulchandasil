@@ -108,6 +108,32 @@ https://github.com/rahulchandasil/NextCart-frontend
 https://github.com/rahulchandasil/NextCart-backend
 
 ---
+## 💼 Personal Portfolio Website
+
+A responsive personal portfolio website showcasing my skills, projects, technical experience, and professional profile. Built with a modern and responsive design to provide recruiters and potential clients with an overview of my development work.
+
+### ✨ Key Features
+
+- 👨‍💻 Developer Profile & About Section
+- 🛠️ Technical Skills Showcase
+- 🚀 Project Portfolio
+- 📱 Responsive Design
+- 📩 Contact Section
+- 🎨 Modern User Interface
+
+### 🛠️ Tech Stack
+
+**Frontend:** React.js, HTML, CSS, JavaScript
+
+### 🔗 Project Links
+
+🌐 Live Demo:  
+https://portfolio-ten-mocha-jb189eln2j.vercel.app/
+
+💻 GitHub:  
+https://github.com/rahulchandasil/portfolio
+
+---
 
 ## 📋 Kanban Board
 
