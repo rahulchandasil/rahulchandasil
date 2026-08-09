@@ -205,7 +205,7 @@ A responsive saree-focused e-commerce website designed to showcase saree product
 https://saree-wbsite.vercel.app/
  
 💻 GitHub:  
-https://github.com/rahulchandasil/food_reel_app
+https://github.com/rahulchandasil/saree_wbsite
 
 ---
 
